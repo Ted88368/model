@@ -30,3 +30,12 @@ ollama pull modelscope2ollama-registry.azurewebsites.net/unsloth/DeepSeek-R1-Dis
 ollama cp modelscope2ollama-registry.azurewebsites.net/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF    DeepSeek-R1-Distill-Qwen-32B-GGUF
 ollama run DeepSeek-R1-Distill-Qwen-32B-GGUF
 ```
+
+
+### deepseek-r1-tool-calling
+```shell
+ollama pull MFDoom/deepseek-r1-tool-calling:1.5b
+ollama pull MFDoom/deepseek-r1-tool-calling:8b
+ollama pull MFDoom/deepseek-r1-tool-calling:14b
+ollama pull MFDoom/deepseek-r1-tool-calling:32b
+```
