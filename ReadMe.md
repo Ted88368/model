@@ -9,7 +9,7 @@ ollama run modelscope2ollama-registry.azurewebsites.net/qwen/Qwen2.5-7B-Instruct
 # ollama rm modelscope2ollama-registry.azurewebsites.net/qwen/Qwen2.5-7B-Instruct-gguf
 # ollama run Qwen2.5:7B
 ```
-
+### DeepSeek-R1-Distill-Qwen 系列(不支持tools)
 #### DeepSeek-R1-Distill-Qwen-1.5B-GGUF
 ```shell
 ollama pull modelscope2ollama-registry.azurewebsites.net/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF
